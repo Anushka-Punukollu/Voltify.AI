@@ -2,7 +2,7 @@
 
 To create a sustainable future, our energy production must shift away from fossil fuels and towards integrating renewables. But something is stopping this transition...
 
-Our energy grid is broken. Made for old power generation, the current grid can't handle the variability of renewable energy sources with grids and operators being overworked. There are two critical gaps in the system — rigidity and an inability to handle variability.
+Our energy grid is broken. Made for old power generation, the current grid can't handle the variability of renewable energy sources, with grids and operators being overworked. There are two critical gaps in the system — rigidity and an inability to handle variability.
 
 From this, Voltify.AI emerged, seeking to address these gaps by integrating AI models to forecast renewables into the grid. Leveraging weather forecasts allows for the prediction of renewable energy output. It includes real-time monitoring of demand versus energy supply, aiding operators in identifying gaps in the system before blackouts arise. By enabling operators to anticipate fluctuations and optimize energy distribution, it reduces inefficiencies, restores balance, and makes renewables the answer - not the problem. The ultimate goal of Voltify.AI is to create an adaptable grid that accommodates the ebb and flow of renewable energy demands.
 
