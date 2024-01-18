@@ -1,4 +1,4 @@
-# Voltify.AI
+# Voltify.AI 🔋
 
 To create a sustainable future, our energy production must shift away from fossil fuels and towards integrating renewables. But something is stopping this transition…
 
